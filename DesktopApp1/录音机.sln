@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "录音机", "DesktopApp1\录音机.csproj", "{0367CE20-A3A9-4815-9FFE-2346E0731C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0367CE20-A3A9-4815-9FFE-2346E0731C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0367CE20-A3A9-4815-9FFE-2346E0731C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0367CE20-A3A9-4815-9FFE-2346E0731C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0367CE20-A3A9-4815-9FFE-2346E0731C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766B7B1F-89BD-466F-B53F-3A66CB04E152}
+	EndGlobalSection
+EndGlobal
